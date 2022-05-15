@@ -1,0 +1,38 @@
+body{background-color: #576B3A;}
+.container-fluid{padding: 0.3% 2%;}
+.navbar{padding-bottom: 6rem;}
+.navbar-brand{color: #BFE897;}
+.navbar-brand:hover{color: #070B07;}
+.nav-link{color: #BFE897;}
+.nav-link:hover{color: #070B07;}
+.title-image{
+  width: 80%;
+  border-radius: 5px;
+  margin: 1rem 4rem 1rem 2rem;
+  outline: 1px solid;
+  outline-color: #070B07;
+  outline-offset: 3rem;}
+h1{color: FloralWhite; font-size: 2rem;}
+.myname{margin: 4rem 2rem 0 4rem;}
+.while{margin: 0 2rem 1rem 4rem;}
+p{color: #eeedd2; margin: auto; font-size: 1.5rem;}
+.smallme{width: 90%; border-radius: 45px;}
+.amrow{padding: inherit;}
+.fce{width: 60%;}
+hr{margin: 2rem;}
+a{color: #BFE897; font-size: 1.4rem;}
+a:hover{color: #070B07;}
+.dancing{width: 80%;}
+.dclink{font-size: 1.5rem; padding: 1.5rem;}
+.row{padding-bottom: 3rem;}
+.malue{width: 100%;}
+.promjpg{width: 100%;}
+.entryjpg{width: 100%;}
+.new{width: 90%;}
+.artem{width: 90%;}
+.butterflies{width: 90%;}
+.kulon{width: 90%;}
+.berlin{width: 90%;}
+.pogostu{width: 90%;}
+.charlie{width: 90%;}
+.maluurow{text-align: center;}
